@@ -12,6 +12,7 @@
 
 #下面你可以自定义了！
 /storage/emulated/0/..ccdid
+/storage/emulated/0/..ccvid
 /storage/emulated/0/._android.dat
 /storage/emulated/0/._driver.dat
 /storage/emulated/0/.7934039a
@@ -41,8 +42,8 @@
 /storage/emulated/0/.gs_fs7
 /storage/emulated/0/.gs_fs8
 /storage/emulated/0/.gs_fs9
-/storage/emulated/0/.lm_device
 /storage/emulated/0/.migamesdk
+/storage/emulated/0/.lm_device
 /storage/emulated/0/.OAIDSystemConfig
 /storage/emulated/0/.pns
 /storage/emulated/0/.Rcs
@@ -62,12 +63,11 @@
 /storage/emulated/0/.xs-5
 /storage/emulated/0/.yodo1
 /storage/emulated/0/.zzz
-/storage/emulated/0/-1*
 /storage/emulated/0/5A968A4B377F25ED0A1FD3C67B0CEE31
 /storage/emulated/0/alipay
-/storage/emulated/0/amap
-/storage/emulated/0/Android/obb
 /storage/emulated/0/Android/obj
+/storage/emulated/0/Android/obb
+/storage/emulated/0/amap
 /storage/emulated/0/AppTimer
 /storage/emulated/0/Audiobooks
 /storage/emulated/0/backups
@@ -81,7 +81,6 @@
 /storage/emulated/0/DCIM/.tmfs
 /storage/emulated/0/DCIM/.yyy
 /storage/emulated/0/deviceId.txt
-/storage/emulated/0/deviceId.txt
 /storage/emulated/0/dida
 /storage/emulated/0/didapinche
 /storage/emulated/0/Documents
@@ -92,11 +91,9 @@
 /storage/emulated/0/linkvisual
 /storage/emulated/0/m4399SDK
 /storage/emulated/0/MIUI/BugReportCache
-/storage/emulated/0/MIUI/BugReportCache
 /storage/emulated/0/MIUI/debug_log
-/storage/emulated/0/MIUI/debug_log
-/storage/emulated/0/MT2
 /storage/emulated/0/nav
+/storage/emulated/0/MT2
 /storage/emulated/0/OSSLog
 /storage/emulated/0/Pictures/.gs
 /storage/emulated/0/Pictures/.gs_file
@@ -125,7 +122,6 @@
 /storage/emulated/0/QQBrowser
 /storage/emulated/0/QTAudioEngine
 /storage/emulated/0/ramfs_ext
-/storage/emulated/0/Ringtones
 /storage/emulated/0/statistic
 /storage/emulated/0/system
 /storage/emulated/0/tbslog
@@ -139,13 +135,19 @@
 /storage/emulated/0/umeng_cache
 /storage/emulated/0/unity_jail
 /storage/emulated/0/vr25
-/storage/emulated/0/wem_*.png
 /storage/emulated/0/wesee_interaction_sdk
+/storage/emulated/0/wem*.png
 /storage/emulated/0/wm_uuid
 /storage/emulated/0/zhihu
 
-#双开数据
+
+
+
+
+
+#双开空间
 /data/media/999/..ccdid
+/data/media/999/..ccvid
 /data/media/999/._android.dat
 /data/media/999/._driver.dat
 /data/media/999/.7934039a
@@ -175,8 +177,8 @@
 /data/media/999/.gs_fs7
 /data/media/999/.gs_fs8
 /data/media/999/.gs_fs9
-/data/media/999/.lm_device
 /data/media/999/.migamesdk
+/data/media/999/.lm_device
 /data/media/999/.OAIDSystemConfig
 /data/media/999/.pns
 /data/media/999/.Rcs
@@ -196,12 +198,11 @@
 /data/media/999/.xs-5
 /data/media/999/.yodo1
 /data/media/999/.zzz
-/data/media/999/-1*
 /data/media/999/5A968A4B377F25ED0A1FD3C67B0CEE31
 /data/media/999/alipay
-/data/media/999/amap
-/data/media/999/Android/obb
 /data/media/999/Android/obj
+/data/media/999/Android/obb
+/data/media/999/amap
 /data/media/999/AppTimer
 /data/media/999/Audiobooks
 /data/media/999/backups
@@ -215,7 +216,6 @@
 /data/media/999/DCIM/.tmfs
 /data/media/999/DCIM/.yyy
 /data/media/999/deviceId.txt
-/data/media/999/deviceId.txt
 /data/media/999/dida
 /data/media/999/didapinche
 /data/media/999/Documents
@@ -226,11 +226,9 @@
 /data/media/999/linkvisual
 /data/media/999/m4399SDK
 /data/media/999/MIUI/BugReportCache
-/data/media/999/MIUI/BugReportCache
 /data/media/999/MIUI/debug_log
-/data/media/999/MIUI/debug_log
-/data/media/999/MT2
 /data/media/999/nav
+/data/media/999/MT2
 /data/media/999/OSSLog
 /data/media/999/Pictures/.gs
 /data/media/999/Pictures/.gs_file
@@ -259,7 +257,6 @@
 /data/media/999/QQBrowser
 /data/media/999/QTAudioEngine
 /data/media/999/ramfs_ext
-/data/media/999/Ringtones
 /data/media/999/statistic
 /data/media/999/system
 /data/media/999/tbslog
@@ -273,7 +270,8 @@
 /data/media/999/umeng_cache
 /data/media/999/unity_jail
 /data/media/999/vr25
-/data/media/999/wem_*.png
 /data/media/999/wesee_interaction_sdk
+/data/media/999/wem*.png
 /data/media/999/wm_uuid
 /data/media/999/zhihu
+
