@@ -50,6 +50,7 @@
 /storage/emulated/0/.sys
 /storage/emulated/0/.system
 /storage/emulated/0/.tbs
+/storage/emulated/0/.tianti
 /storage/emulated/0/.tomb
 /storage/emulated/0/.turing.dat
 /storage/emulated/0/.turingdebug
@@ -189,6 +190,7 @@
 /data/media/999/.sys
 /data/media/999/.system
 /data/media/999/.tbs
+/data/media/999/.tianti
 /data/media/999/.tomb
 /data/media/999/.turing.dat
 /data/media/999/.turingdebug
