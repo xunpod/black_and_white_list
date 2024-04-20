@@ -75,6 +75,8 @@
 /storage/emulated/0/baidu
 /storage/emulated/0/browser
 /storage/emulated/0/caict
+/storage/emulated/0/carrot
+/storage/emulated/0/carrot3dj
 /storage/emulated/0/com.miui.voiceassist
 /storage/emulated/0/com.netease.cloudmusic
 /storage/emulated/0/com.quark.browser
@@ -133,6 +135,7 @@
 /storage/emulated/0/tga
 /storage/emulated/0/ttscache
 /storage/emulated/0/turingdebug
+/storage/emulated/0/ucgamesdk
 /storage/emulated/0/umeng_cache
 /storage/emulated/0/unity_jail
 /storage/emulated/0/vr25
@@ -211,6 +214,8 @@
 /data/media/999/baidu
 /data/media/999/browser
 /data/media/999/caict
+/data/media/999/carrot
+/data/media/999/carrot3dj
 /data/media/999/com.miui.voiceassist
 /data/media/999/com.netease.cloudmusic
 /data/media/999/com.quark.browser
@@ -269,6 +274,7 @@
 /data/media/999/tga
 /data/media/999/ttscache
 /data/media/999/turingdebug
+/data/media/999/ucgamesdk
 /data/media/999/umeng_cache
 /data/media/999/unity_jail
 /data/media/999/vr25
